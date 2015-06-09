@@ -2,6 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 # Maintain gem's version:
 require 'jms/version'
+require 'rake'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |spec|
